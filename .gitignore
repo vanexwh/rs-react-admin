@@ -1,0 +1,12 @@
+#git commit ignore
+
+.vscode
+node_modules/
+unpackage/
+dist/
+.idea/
+.log
+*.zip
+.DS_Store
+.husky/
+.env
